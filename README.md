@@ -1,6 +1,7 @@
 # Sup, I'm D'Andrea Santiago 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagodandrea-it/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/santidandreaa)
 
 I'm an **Engineering Student** & **IT / Cybersecurity Enthusiast** based in Rosario, Argentina.  
 I'm building hands-on experience through self-driven labs focused on systems administration, networking, technical support, and defensive security.
@@ -48,12 +49,8 @@ Currently focused on growing professionally in **IT Support**, **Infrastructure*
 
 ## 💼 Professional Experience
 
-### **Aspiring IT Support / Cybersecurity Professional**  
-**Rosario, Argentina**  
-*Present*  
-- Building practical labs simulating real-world IT and security scenarios.
-- Documenting projects professionally on GitHub.
-- Developing troubleshooting and incident analysis skills.
+### **404 Experience Not Found**
+*...yet.*
 
 ---
 
