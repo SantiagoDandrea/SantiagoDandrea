@@ -1,10 +1,6 @@
 # Sup, I'm [Your Name] 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)]()
-[![IG](https://img.shields.io/badge/IG-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
-[![Play the game](https://img.shields.io/badge/Play_the_game-4CAF50?style=for-the-badge&logo=github&logoColor=white)]()
-[![💻 Portfolio](https://img.shields.io/badge/💻_Portfolio-1A2B4C?style=for-the-badge&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagodandrea-it/)
 
 I'm an **Engineering Student** & **IT / Cybersecurity Enthusiast** based in Rosario, Argentina.  
 I'm building hands-on experience through self-driven labs focused on systems administration, networking, technical support, and defensive security.
@@ -63,8 +59,8 @@ Currently focused on growing professionally in **IT Support**, **Infrastructure*
 
 ## 🎓 Education
 
-- **Engineering Degree (in progress)**  
-  *University Student since 2023*
+- **Bachelor's Degree in Information Systems Engineering (in progress)**  
+  *National Technological University since 2023*
 
 ---
 
@@ -74,12 +70,6 @@ Currently focused on growing professionally in **IT Support**, **Infrastructure*
 - **Problem Solving:** Strong interest in diagnosing and resolving issues.
 - **Continuous Learning:** Self-taught in multiple technical areas.
 - **Adaptability:** Open to entry-level opportunities and growth.
-
----
-
-## 🎥 Content Creation & Media
-
-
 
 ---
 
@@ -95,14 +85,8 @@ Most of my work is focused on labs and learning environments. Here are some high
 
 ---
 
-## 📚 Recommended Readings
-
-
-
----
-
 ## 📫 Get in Touch
 
-- [LinkedIn]()
-- [GitHub](https://github.com/)
+- [LinkedIn](https://www.linkedin.com/in/santiagodandrea-it/)
+- [Email](mailto:santiagodandrea04@gmail.com)
 
