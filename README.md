@@ -1,10 +1,11 @@
-# Sup, I'm D'Andrea Santiago 👋
+# Hey, I'm Santiago 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagodandrea-it/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/santidandreaa)
 
-I'm an **Engineering Student** & **IT / Cybersecurity Enthusiast** based in Rosario, Argentina.  
-I'm building hands-on experience through self-driven labs focused on systems administration, networking, technical support, and defensive security.
+I like breaking things, fixing them again, and documenting what I learn along the way.
+
+Currently exploring Linux administration, networking, monitoring, and defensive security through hands-on projects.
 
 ---
 
@@ -27,7 +28,7 @@ Currently focused on growing professionally in **IT Support**, **Infrastructure*
 - **Systems:** Linux administration, Windows administration
 
 ### **Infrastructure & Cloud**
-- **Virtualization:** VirtualBox, VMware
+- **Virtualization:** VirtualBox
 - **Monitoring:** Wazuh, SIEM fundamentals
 - **Networking:** TCP/IP, DNS, DHCP, Routing, Switching
 - **Source Control:** Git, GitHub
@@ -47,17 +48,33 @@ Currently focused on growing professionally in **IT Support**, **Infrastructure*
 
 ---
 
-## 💼 Professional Experience
-
-### **404 Experience Not Found**
-*...yet.*
-
----
-
 ## 🎓 Education
 
 - **Bachelor's Degree in Information Systems Engineering (in progress)**  
   *National Technological University since 2023*
+
+---
+
+
+## 📚 Learning & Certifications
+
+- ISC2 CC (cert)
+- Cisco CCNA 1 (course)
+- IBM Cybersecurity Fundamentals & SOC in Practice (course)
+
+---
+
+## 🧪 Currently Working On
+
+- Linux administration & RHCSA-related learning
+- Cisco CCNA networking fundamentals
+
+---
+
+## 💼 Professional Experience
+
+### **404 Experience Not Found**
+*...yet.*
 
 ---
 
