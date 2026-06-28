@@ -1,4 +1,5 @@
 # ¡Hola! Soy Santiago 👋
+> 🇪🇸 Estás leyendo la versión en español. | 🇬🇧 **[Read this profile in English](../README.md)**
 
 Estudiante de Ingeniería en Sistemas de Información de Argentina, desarrollando proyectos prácticos en **Ciberseguridad**, **Infraestructura**, **Redes** y **Desarrollo de Software**.
 
