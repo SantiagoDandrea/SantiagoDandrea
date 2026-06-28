@@ -1,106 +1,217 @@
-# Hey, I'm Santiago 👋
+# Hi, I'm Santiago 👋
+
+Information Systems Engineering student from Argentina, building hands-on projects in **Cybersecurity**, **Infrastructure**, **Networking**, and **Software Development**.
+
+I enjoy understanding how systems work, solving technical problems, and documenting everything I build along the way.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagodandrea-it/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/santidandreaa)
 
-I like breaking things, fixing them again, and documenting what I learn along the way.
+---
 
-Currently exploring Linux administration, networking, monitoring, and defensive security through hands-on projects.
+# 🎯 Current Focus
+
+- 🔐 Security Operations (SOC)
+- 🐧 Linux Administration
+- 🌐 Networking (Cisco CCNA)
+- ☁️ Microsoft Security (SC-200)
+- 💻 Software Engineering
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I consider myself a practical problem-solver. I'm passionate about understanding how systems work, troubleshooting issues, and continuously improving my technical skills through real projects and labs.
+My learning approach is project-driven.
 
-Currently focused on growing professionally in **IT Support**, **Infrastructure**, and **Cybersecurity** roles.
+Every technology I study eventually becomes a documented lab, a GitHub repository, or a complete project. I enjoy building real environments, understanding how technologies work internally, and documenting both the implementation process and the lessons learned.
 
----
-
-## 🔧 Technical Skills
-
-### **Main languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
-
-### **Application Development**
-- **Scripting:** Python, Bash
-- **Systems:** Linux administration, Windows administration
-
-### **Infrastructure & Cloud**
-- **Virtualization:** VirtualBox
-- **Monitoring:** Wazuh, SIEM fundamentals
-- **Networking:** TCP/IP, DNS, DHCP, Routing, Switching
-- **Source Control:** Git, GitHub
-
-### **Database & Storage**
-- **Basic Knowledge:** MySQL
-
-### **Web Technologies**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-
-### **Additional Expertise**
-- **Operating Systems:** Linux, Windows
-- **Security:** Blue Team basics, Log analysis, Hardening
-- **Support:** Troubleshooting hardware/software issues
-- **Documentation:** Technical READMEs, lab documentation
+I'm currently working toward my first professional opportunity in **IT Support**, **Infrastructure**, **Networking**, or **Cybersecurity**, while continuing to expand my hands-on experience through personal projects and technical labs.
 
 ---
 
-## 🎓 Education
+# 🛠 Technical Skills
 
-- **Bachelor's Degree in Information Systems Engineering (in progress)**  
-  *National Technological University since 2023*
+## Infrastructure & Systems
+
+- Linux
+- Windows
+- Docker
+- VirtualBox
+- Git
+- GitHub
+
+## Networking
+
+- TCP/IP
+- IPv4 / IPv6
+- Routing
+- Switching
+- DNS
+- DHCP
+- Cisco Packet Tracer
+
+## Cybersecurity
+
+- Wazuh SIEM
+- Log Analysis
+- Security Monitoring
+- File Integrity Monitoring (FIM)
+- Linux Hardening
+- Threat Hunting Fundamentals
+- Incident Investigation
+- Blue Team Fundamentals
+
+## Software Development
+
+- Python
+- TypeScript
+- React
+- Next.js
+- Express
+- PostgreSQL
+- Prisma
+- SQL
+
+## Artificial Intelligence
+
+- LangChain
+- FAISS
+- Retrieval-Augmented Generation (RAG)
+- Google Gemini API
+- Prompt Engineering
 
 ---
 
+# 🎓 Education
 
-## 📚 Learning & Certifications
+**Information Systems Engineering** *(In Progress)*
 
-- ISC2 CC (cert)
-- Cisco CCNA 1 (course)
-- IBM Cybersecurity Fundamentals & SOC in Practice (course)
+National Technological University (UTN) – Rosario, Argentina
 
----
-
-## 🧪 Currently Working On
-
-- Linux administration & RHCSA-related learning
-- Cisco CCNA networking fundamentals
+Since 2023
 
 ---
 
-## 💼 Professional Experience
+# 📚 Certifications & Learning
 
-### **404 Experience Not Found**
-*...yet.*
+### Certifications
 
----
+- ✅ ISC2 Certified in Cybersecurity (CC)
 
-## 🎯 What I Bring to the Table
+### Completed Training
 
-- **Hands-on Mindset:** I learn by building and testing real environments.
-- **Problem Solving:** Strong interest in diagnosing and resolving issues.
-- **Continuous Learning:** Self-taught in multiple technical areas.
-- **Adaptability:** Open to entry-level opportunities and growth.
+- Cisco CCNA 1
+- Cisco Cybersecurity Defense Analyst Career Path
+- IBM Cybersecurity Fundamentals
+- IBM Security Operations Center in Practice
+- Alura AI Agents Immersion
 
----
+### Currently Learning
 
-## ⭐ Interesting Projects
-
-Most of my work is focused on labs and learning environments. Here are some highlights:
-
-- **Basic Networking Lab:** Office network simulation with router configuration.  
-- **Linux Fundamentals Lab:** User management, permissions, services, and CLI tasks.  
-- **Blue Team SOC Cases:** Security event investigation scenarios.  
-- **SIEM Lab with Wazuh:** Windows + Linux monitoring environment.  
-- **Linux Security Monitoring:** SSH brute force detection, FIM, and SCA validations.
+- Cisco CCNA 2
+- Microsoft SC-200 Security Operations Analyst
+- Microsoft Security Ecosystem (Defender XDR, Sentinel, Entra ID)
 
 ---
 
-## 📫 Get in Touch
+# ⭐ Featured Projects
 
-- [LinkedIn](https://www.linkedin.com/in/santiagodandrea-it/)
-- [Email](mailto:santiagodandrea04@gmail.com)
+## 🔐 Wazuh SIEM Lab
 
+Complete SIEM implementation monitoring Linux and Windows endpoints.
+
+**Highlights**
+
+- Wazuh Server deployment
+- Linux & Windows agents
+- Authentication monitoring
+- Privilege escalation events
+- Security event analysis
+- File Integrity Monitoring (FIM)
+
+---
+
+## 🛡 Blue Team Security Cases
+
+Collection of security investigations based on simulated incidents.
+
+**Topics**
+
+- SSH brute force attacks
+- Privilege escalation
+- Log correlation
+- Impact assessment
+- Incident response
+
+---
+
+## 🐧 Linux Fundamentals
+
+Hands-on Linux administration repository covering practical system administration concepts.
+
+**Topics**
+
+- Users & Permissions
+- Services
+- Processes
+- Networking
+- Apache
+- SSH
+- Logs
+- Firewall basics
+
+---
+
+## 🌐 Networking Labs
+
+Cisco Packet Tracer labs documenting networking fundamentals.
+
+**Topics**
+
+- LANs
+- Routing
+- Switching
+- IPv4
+- Subnetting
+- Connectivity Testing
+- Troubleshooting
+
+---
+
+## 🤖 TimeLend
+
+AI-powered decentralized productivity platform developed during Aleph Hackathon.
+
+**Stack**
+
+- React
+- Next.js
+- Express
+- PostgreSQL
+- Prisma
+- Solidity
+- Docker
+
+---
+
+# 📈 Currently Improving
+
+I'm continuously expanding my knowledge in:
+
+- Microsoft Security
+- Azure
+- Linux Administration
+- Enterprise Networking
+- Security Operations
+- Cloud Technologies
+
+---
+
+# 📫 Contact
+
+- 💼 LinkedIn: https://www.linkedin.com/in/santiagodandrea-it/
+- 📧 Email: santiagodandrea04@gmail.com
+
+---
+
+> *"Learning by building, documenting, and improving one project at a time."*
