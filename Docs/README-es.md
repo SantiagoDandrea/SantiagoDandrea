@@ -26,7 +26,7 @@ Mi forma de aprender está impulsada por proyectos.
 
 Cada tecnología que estudio termina convirtiéndose en un laboratorio documentado, un repositorio de GitHub o un proyecto completo. Disfruto construir entornos reales, comprender cómo funcionan las tecnologías internamente y documentar tanto el proceso de implementación como los aprendizajes obtenidos.
 
-Actualmente estoy trabajando para conseguir mi primera oportunidad profesional en **IT Support**, **Infraestructura**, **Redes** o **Ciberseguridad**, mientras continúo ampliando mi experiencia práctica con proyectos personales y laboratorios técnicos.
+Actualmente estoy trabajando para conseguir mi primera oportunidad profesional en **Soporte IT**, **Infraestructura**, **Redes** o **Ciberseguridad**, mientras continúo ampliando mi experiencia práctica con proyectos personales y laboratorios técnicos.
 
 ---
 
@@ -38,13 +38,7 @@ Linux • Windows • Docker • VirtualBox • Git
 
 ## Redes
 
-- TCP/IP
-- IPv4 / IPv6
-- Routing
-- Switching
-- DNS
-- DHCP
-- Cisco Packet Tracer
+TCP/IP • IPv4/IPv6 • Ruteo • Switcheo • Servicios de Red (DNS, DHCP)
 
 ## Ciberseguridad
 
