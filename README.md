@@ -34,12 +34,7 @@ I'm currently working toward my first professional opportunity in **IT Support**
 
 ## Infrastructure & Systems
 
-- Linux
-- Windows
-- Docker
-- VirtualBox
-- Git
-- GitHub
+Linux • Windows • Docker • VirtualBox • Git
 
 ## Networking
 
@@ -53,33 +48,15 @@ I'm currently working toward my first professional opportunity in **IT Support**
 
 ## Cybersecurity
 
-- Wazuh SIEM
-- Log Analysis
-- Security Monitoring
-- File Integrity Monitoring (FIM)
-- Linux Hardening
-- Threat Hunting Fundamentals
-- Incident Investigation
-- Blue Team Fundamentals
+Wazuh SIEM • FIM • Log Analysis • Security Monitoring • Lnux Hardening • Threat Hunting Fundamentals • Blue Team Fundamentals
 
 ## Software Development
 
-- Python
-- TypeScript
-- React
-- Next.js
-- Express
-- PostgreSQL
-- Prisma
-- SQL
+Python • TypeScript • React • Next.js • Express • SQL
 
 ## Artificial Intelligence
 
-- LangChain
-- FAISS
-- Retrieval-Augmented Generation (RAG)
-- Google Gemini API
-- Prompt Engineering
+LangChain • FAISS • Retrieval-Augmented Generation (RAG) • AI APIs
 
 ---
 
@@ -163,22 +140,6 @@ Hands-on Linux administration repository covering practical system administratio
 
 ---
 
-## 🌐 Networking Labs
-
-Cisco Packet Tracer labs documenting networking fundamentals.
-
-**Topics**
-
-- LANs
-- Routing
-- Switching
-- IPv4
-- Subnetting
-- Connectivity Testing
-- Troubleshooting
-
----
-
 ## 🤖 TimeLend
 
 AI-powered decentralized productivity platform developed during Aleph Hackathon.
@@ -192,19 +153,6 @@ AI-powered decentralized productivity platform developed during Aleph Hackathon.
 - Prisma
 - Solidity
 - Docker
-
----
-
-# 📈 Currently Improving
-
-I'm continuously expanding my knowledge in:
-
-- Microsoft Security
-- Azure
-- Linux Administration
-- Enterprise Networking
-- Security Operations
-- Cloud Technologies
 
 ---
 
