@@ -38,13 +38,7 @@ Linux • Windows • Docker • VirtualBox • Git
 
 ## Networking
 
-- TCP/IP
-- IPv4 / IPv6
-- Routing
-- Switching
-- DNS
-- DHCP
-- Cisco Packet Tracer
+TCP/IP • IPv4/IPv6 • Routing • Switching • Network Services (DNS, DHCP)
 
 ## Cybersecurity
 
