@@ -3,43 +3,38 @@
 
 Estudiante de Ingeniería en Sistemas de Información de Argentina, desarrollando proyectos prácticos en **Ciberseguridad**, **Infraestructura**, **Redes** y **Desarrollo de Software**.
 
-Me gusta comprender cómo funcionan los sistemas, resolver problemas técnicos y documentar todo lo que construyo durante el proceso de aprendizaje.
+Me gusta comprender cómo funcionan los sistemas, resolver problemas técnicos y documentar todo lo que construyo en el camino.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagodandrea-it/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/santidandreaa)
 
 ---
 
-# 🎯 En qué estoy enfocado actualmente
+# 🎯 Enfoque actual
 
 - 🔐 Security Operations (SOC)
 - 🐧 Administración de Linux
 - 🌐 Redes (Cisco CCNA)
-- ☁️ Seguridad en Microsoft (SC-200)
-- 💻 Desarrollo de Software
+- ☁️ Seguridad de Microsoft (SC-200)
+- 💻 Ingeniería de Software
 
 ---
 
 # 🚀 Sobre mí
 
-Mi forma de aprender está basada en proyectos.
+Mi forma de aprender está impulsada por proyectos.
 
-Cada tecnología que estudio termina convirtiéndose en un laboratorio documentado, un repositorio de GitHub o un proyecto completo. Disfruto construir entornos reales, comprender cómo funcionan las tecnologías internamente y documentar tanto la implementación como los aprendizajes obtenidos.
+Cada tecnología que estudio termina convirtiéndose en un laboratorio documentado, un repositorio de GitHub o un proyecto completo. Disfruto construir entornos reales, comprender cómo funcionan las tecnologías internamente y documentar tanto el proceso de implementación como los aprendizajes obtenidos.
 
-Actualmente estoy buscando mi primera oportunidad profesional en **IT Support**, **Infraestructura**, **Redes** o **Ciberseguridad**, mientras continúo ampliando mi experiencia práctica mediante proyectos personales y laboratorios técnicos.
+Actualmente estoy trabajando para conseguir mi primera oportunidad profesional en **IT Support**, **Infraestructura**, **Redes** o **Ciberseguridad**, mientras continúo ampliando mi experiencia práctica con proyectos personales y laboratorios técnicos.
 
 ---
 
-# 🛠 Tecnologías y conocimientos
+# 🛠 Habilidades técnicas
 
 ## Infraestructura y Sistemas
 
-- Linux
-- Windows
-- Docker
-- VirtualBox
-- Git
-- GitHub
+Linux • Windows • Docker • VirtualBox • Git
 
 ## Redes
 
@@ -53,33 +48,15 @@ Actualmente estoy buscando mi primera oportunidad profesional en **IT Support**,
 
 ## Ciberseguridad
 
-- Wazuh SIEM
-- Log Analysis
-- Security Monitoring
-- File Integrity Monitoring (FIM)
-- Hardening de Linux
-- Threat Hunting (fundamentos)
-- Investigación de incidentes
-- Blue Team (fundamentos)
+Wazuh SIEM • FIM • Análisis de logs • Monitoreo de seguridad • Hardening de Linux • Fundamentos de Threat Hunting • Fundamentos de Blue Team
 
 ## Desarrollo de Software
 
-- Python
-- TypeScript
-- React
-- Next.js
-- Express
-- PostgreSQL
-- Prisma
-- SQL
+Python • TypeScript • React • Next.js • Express • SQL
 
 ## Inteligencia Artificial
 
-- LangChain
-- FAISS
-- Retrieval-Augmented Generation (RAG)
-- Google Gemini API
-- Prompt Engineering
+LangChain • FAISS • Retrieval-Augmented Generation (RAG) • APIs de IA
 
 ---
 
@@ -89,7 +66,7 @@ Actualmente estoy buscando mi primera oportunidad profesional en **IT Support**,
 
 Universidad Tecnológica Nacional (UTN) – Rosario, Argentina
 
-Desde 2023.
+Desde 2023
 
 ---
 
@@ -105,13 +82,13 @@ Desde 2023.
 - Cisco Cybersecurity Defense Analyst Career Path
 - IBM Cybersecurity Fundamentals
 - IBM Security Operations Center in Practice
-- Alura – Inmersión en Agentes de IA
+- Inmersión en Agentes de IA de Alura
 
 ### Actualmente estudiando
 
 - Cisco CCNA 2
 - Microsoft SC-200 Security Operations Analyst
-- Ecosistema de Seguridad de Microsoft (Defender XDR, Sentinel y Entra ID)
+- Ecosistema de Seguridad de Microsoft (Defender XDR, Sentinel, Entra ID)
 
 ---
 
@@ -119,24 +96,24 @@ Desde 2023.
 
 ## 🔐 Laboratorio SIEM con Wazuh
 
-Implementación completa de un entorno SIEM para monitorear sistemas Linux y Windows.
+Implementación completa de SIEM monitoreando endpoints Linux y Windows.
 
-**Aspectos principales**
+**Puntos clave**
 
-- Despliegue de Wazuh Server
+- Despliegue del servidor Wazuh
 - Agentes Linux y Windows
-- Monitoreo de autenticaciones
+- Monitoreo de autenticación
 - Eventos de escalada de privilegios
 - Análisis de eventos de seguridad
 - File Integrity Monitoring (FIM)
 
 ---
 
-## 🛡 Casos prácticos de Blue Team
+## 🛡 Casos de seguridad Blue Team
 
-Colección de investigaciones de seguridad basadas en escenarios simulados.
+Colección de investigaciones de seguridad basadas en incidentes simulados.
 
-**Temas trabajados**
+**Temas**
 
 - Ataques de fuerza bruta por SSH
 - Escalada de privilegios
@@ -148,7 +125,7 @@ Colección de investigaciones de seguridad basadas en escenarios simulados.
 
 ## 🐧 Fundamentos de Linux
 
-Repositorio práctico sobre administración de sistemas Linux.
+Repositorio práctico de administración Linux que cubre conceptos de administración de sistemas.
 
 **Temas**
 
@@ -159,31 +136,15 @@ Repositorio práctico sobre administración de sistemas Linux.
 - Apache
 - SSH
 - Logs
-- Firewall
-
----
-
-## 🌐 Laboratorios de Redes
-
-Laboratorios desarrollados con Cisco Packet Tracer para reforzar fundamentos de redes.
-
-**Temas**
-
-- LAN
-- Routing
-- Switching
-- IPv4
-- Subnetting
-- Pruebas de conectividad
-- Troubleshooting
+- Fundamentos de firewall
 
 ---
 
 ## 🤖 TimeLend
 
-Plataforma descentralizada de productividad asistida por IA desarrollada durante el Aleph Hackathon.
+Plataforma de productividad descentralizada impulsada por IA, desarrollada durante el Aleph Hackathon.
 
-**Tecnologías utilizadas**
+**Stack**
 
 - React
 - Next.js
@@ -192,19 +153,6 @@ Plataforma descentralizada de productividad asistida por IA desarrollada durante
 - Prisma
 - Solidity
 - Docker
-
----
-
-# 📈 Actualmente aprendiendo
-
-Continúo profundizando conocimientos en:
-
-- Seguridad Microsoft
-- Azure
-- Administración de Linux
-- Redes empresariales
-- Security Operations (SOC)
-- Tecnologías Cloud
 
 ---
 
