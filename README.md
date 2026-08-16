@@ -73,6 +73,8 @@ Since 2023
 ### Completed Training
 
 - Cisco CCNA 1
+- Cisco CCNA 2
+- Red Hat System Administration I (RH124)
 - Cisco Cybersecurity Defense Analyst Career Path
 - IBM Cybersecurity Fundamentals
 - IBM Security Operations Center in Practice
@@ -80,7 +82,7 @@ Since 2023
 
 ### Currently Learning
 
-- Cisco CCNA 2
+- Cisco CCNA 3
 - Microsoft SC-200 Security Operations Analyst
 - Microsoft Security Ecosystem (Defender XDR, Sentinel, Entra ID)
 
@@ -114,23 +116,6 @@ Collection of security investigations based on simulated incidents.
 - Log correlation
 - Impact assessment
 - Incident response
-
----
-
-## 🐧 Linux Fundamentals
-
-Hands-on Linux administration repository covering practical system administration concepts.
-
-**Topics**
-
-- Users & Permissions
-- Services
-- Processes
-- Networking
-- Apache
-- SSH
-- Logs
-- Firewall basics
 
 ---
 
