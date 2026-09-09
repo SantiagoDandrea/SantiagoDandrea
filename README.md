@@ -32,19 +32,18 @@ Hands-on vulnerability assessments focusing on attack simulation and secure code
 * **DVWA:** Advanced SQL Injection testing (Medium, High, and Blind SQLi) extracting database schemas via `UNION SELECT` and boolean inference.
 * **PortSwigger Academy:** Session hijacking (Stored XSS via Burp Collaborator), JWT signature tampering, and input filtering evasion.
 
-#### 📋 [Data Protection & Security Compliance](https://github.com/SantiagoDandrea)
+#### 📋 [Data Protection & Security Compliance](https://github.com/SantiagoDandrea/data-protection-compliance)
 Technical-legal mapping and security governance framework for handling sensitive records.
 * **Regulatory Compliance:** Core requirements under Argentine Law 25.326 (Habeas Data) aligned with ISO/IEC 27001 domains.
 * **Data Classification:** 4-tier data sensitivity matrix (Public, Internal, Confidential, Restricted) mapped to technical safeguards (DLP, at-rest/in-transit encryption, RBAC).
 
-#### 🐧 [Linux Fundamentals & Hardening](https://github.com/SantiagoDandrea)
+#### 🐧 [Linux Fundamentals & Hardening](https://github.com/SantiagoDandrea/linux-fundamentos)
 Practical Linux administration focused on reducing system attack surfaces.
 * **Administration:** Process auditing (`systemd`), strict file permissions, secure account management, and firewall rules via UFW.
 * **Auditing:** Inspection of authentication events (`auth.log`, `syslog`) and hardening of exposed services (SSH, Apache).
 
-#### 🚀 [TimeLend – Full Stack Web Architecture](https://github.com/SantiagoDandrea)
+#### 🚀 [TimeLend – Full Stack Web Architecture](https://github.com/SantiagoDandrea/TimeLend)
 Decentralized productivity web application built during the Aleph Hackathon.
-* **Security Relevance:** Demonstrates practical understanding of modern application architectures (Next.js 15, Express 5, PostgreSQL, Docker, and REST APIs), providing the necessary engineering context to audit application logic and defend web backends.
 
 ---
 
