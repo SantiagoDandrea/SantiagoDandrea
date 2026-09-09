@@ -20,7 +20,7 @@ My learning path is strictly hands-on and project-driven: every concept studied 
 
 ### ⭐ Featured Technical Labs & Projects
 
-#### 🔐 [Wazuh SIEM & Blue Team Security Cases](https://github.com/SantiagoDandrea)
+#### 🔐 [Wazuh SIEM & Blue Team Security Cases](https://github.com/SantiagoDandrea/Wazuh-SOC-Lab)
 End-to-end SIEM deployment and simulated incident response workflows.
 * **Architecture:** Wazuh Server, Indexer, Dashboard, and multi-platform agents (Ubuntu Server & Windows).
 * **Detection & FIM:** File Integrity Monitoring over critical directories (`/etc`), tracking unauthorized modifications and file additions.
@@ -37,7 +37,7 @@ Technical-legal mapping and security governance framework for handling sensitive
 * **Regulatory Compliance:** Core requirements under Argentine Law 25.326 (Habeas Data) aligned with ISO/IEC 27001 domains.
 * **Data Classification:** 4-tier data sensitivity matrix (Public, Internal, Confidential, Restricted) mapped to technical safeguards (DLP, at-rest/in-transit encryption, RBAC).
 
-#### 🐧 [Linux Fundamentals & Hardening](https://github.com/SantiagoDandrea/linux-fundamentos)
+#### 🐧 Linux Fundamentals & Hardening
 Practical Linux administration focused on reducing system attack surfaces.
 * **Administration:** Process auditing (`systemd`), strict file permissions, secure account management, and firewall rules via UFW.
 * **Auditing:** Inspection of authentication events (`auth.log`, `syslog`) and hardening of exposed services (SSH, Apache).
