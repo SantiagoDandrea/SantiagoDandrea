@@ -1,144 +1,79 @@
 # Hi, I'm Santiago 👋
 > 🇬🇧 You're reading the English version. | 🇪🇸 **[Leer este perfil en español](Docs/README-es.md)**
 
-Information Systems Engineering student from Argentina, building hands-on projects in **Cybersecurity**, **Infrastructure**, **Networking**, and **Software Development**.
-
-I enjoy understanding how systems work, solving technical problems, and documenting everything I build along the way.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagodandrea-it/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/santidandreaa)
 
----
+Information Systems Engineering student at UTN Rosario, focusing on **Security Operations (SOC)**, **Defensive Security**, and **Infrastructure Analysis**.
 
-# 🎯 Current Focus
-
-- 🔐 Security Operations (SOC)
-- 🐧 Linux Administration
-- 🌐 Networking (Cisco CCNA)
-- ☁️ Microsoft Security (SC-200)
-- 💻 Software Engineering
+My learning path is strictly hands-on and project-driven: every concept studied is deployed into an isolated environment, an incident response simulation, or a step-by-step documented audit. I leverage my background in networking, operating systems, and full-stack development to review source code, understand attack vectors, and safeguard IT infrastructure.
 
 ---
 
-# 🚀 About Me
-
-My learning approach is project-driven.
-
-Every technology I study eventually becomes a documented lab, a GitHub repository, or a complete project. I enjoy building real environments, understanding how technologies work internally, and documenting both the implementation process and the lessons learned.
-
-I'm currently working toward my first professional opportunity in **IT Support**, **Infrastructure**, **Networking**, or **Cybersecurity**, while continuing to expand my hands-on experience through personal projects and technical labs.
+### 🎯 Current Focus
+* 🛡️ **Security Operations (SOC / Blue Team):** SIEM monitoring, log analysis, event correlation, and incident handling.
+* 🌐 **Networking & Infrastructure:** Enterprise routing, switching, and Layer 2/Layer 3 network security (Cisco CCNA).
+* 🔒 **Application Security:** Identification of OWASP Top 10 vulnerabilities, input sanitization, and secure coding practices.
+* ⚖️ **Compliance & GRC:** Data protection regulations (Argentine Personal Data Protection Act 25.326, ISO/IEC 27001 controls).
 
 ---
 
-# 🛠 Technical Skills
+### ⭐ Featured Technical Labs & Projects
 
-## Infrastructure & Systems
+#### 🔐 [Wazuh SIEM & Blue Team Security Cases](https://github.com/SantiagoDandrea)
+End-to-end SIEM deployment and simulated incident response workflows.
+* **Architecture:** Wazuh Server, Indexer, Dashboard, and multi-platform agents (Ubuntu Server & Windows).
+* **Detection & FIM:** File Integrity Monitoring over critical directories (`/etc`), tracking unauthorized modifications and file additions.
+* **Incident Analysis:** Detection and automated containment of SSH brute-force attacks via Fail2ban, anomalous login triage, and privilege escalation audit (`sudo`).
 
-Linux • Windows • Docker • VirtualBox • Git
+#### 🌐 [Web Application Security Lab](https://github.com/SantiagoDandrea/Web-Security-Lab)
+Hands-on vulnerability assessments focusing on attack simulation and secure code mitigation.
+* **OWASP Juice Shop:** Exploitation of DOM-based XSS, Angular sanitization bypasses, authentication bypass via SQLi, and business logic flaws.
+* **DVWA:** Advanced SQL Injection testing (Medium, High, and Blind SQLi) extracting database schemas via `UNION SELECT` and boolean inference.
+* **PortSwigger Academy:** Session hijacking (Stored XSS via Burp Collaborator), JWT signature tampering, and input filtering evasion.
 
-## Networking
+#### 📋 [Data Protection & Security Compliance](https://github.com/SantiagoDandrea)
+Technical-legal mapping and security governance framework for handling sensitive records.
+* **Regulatory Compliance:** Core requirements under Argentine Law 25.326 (Habeas Data) aligned with ISO/IEC 27001 domains.
+* **Data Classification:** 4-tier data sensitivity matrix (Public, Internal, Confidential, Restricted) mapped to technical safeguards (DLP, at-rest/in-transit encryption, RBAC).
 
-TCP/IP • IPv4/IPv6 • Routing • Switching • Network Services (DNS, DHCP)
+#### 🐧 [Linux Fundamentals & Hardening](https://github.com/SantiagoDandrea)
+Practical Linux administration focused on reducing system attack surfaces.
+* **Administration:** Process auditing (`systemd`), strict file permissions, secure account management, and firewall rules via UFW.
+* **Auditing:** Inspection of authentication events (`auth.log`, `syslog`) and hardening of exposed services (SSH, Apache).
 
-## Cybersecurity
-
-Wazuh SIEM • FIM • Log Analysis • Security Monitoring • Lnux Hardening • Threat Hunting Fundamentals • Blue Team Fundamentals
-
-## Software Development
-
-Python • TypeScript • React • Next.js • Express • SQL
-
-## Artificial Intelligence
-
-LangChain • FAISS • Retrieval-Augmented Generation (RAG) • AI APIs
-
----
-
-# 🎓 Education
-
-**Information Systems Engineering** *(In Progress)*
-
-National Technological University (UTN) – Rosario, Argentina
-
-Since 2023
+#### 🚀 [TimeLend – Full Stack Web Architecture](https://github.com/SantiagoDandrea)
+Decentralized productivity web application built during the Aleph Hackathon.
+* **Security Relevance:** Demonstrates practical understanding of modern application architectures (Next.js 15, Express 5, PostgreSQL, Docker, and REST APIs), providing the necessary engineering context to audit application logic and defend web backends.
 
 ---
 
-# 📚 Certifications & Learning
+### 🛠️ Technical Toolkit
 
-### Certifications
-
-- ✅ ISC2 Certified in Cybersecurity (CC)
-
-### Completed Training
-
-- Cisco CCNA 1
-- Cisco CCNA 2
-- Red Hat System Administration I (RH124)
-- Cisco Cybersecurity Defense Analyst Career Path
-- IBM Cybersecurity Fundamentals
-- IBM Security Operations Center in Practice
-- Alura AI Agents Immersion
-
-### Currently Learning
-
-- Cisco CCNA 3
-- Microsoft SC-200 Security Operations Analyst
-- Microsoft Security Ecosystem (Defender XDR, Sentinel, Entra ID)
+* **Defensive Security:** Wazuh SIEM, File Integrity Monitoring (FIM), Fail2ban, Log Analysis (`auth.log`, `syslog`, web logs), Incident Triage, OWASP Top 10, Burp Suite.
+* **Networking:** TCP/IP, Switching & Routing, VLANs, Inter-VLAN routing, STP, EtherChannel, ACLs, DHCP Snooping, Dynamic ARP Inspection (DAI), Cisco Packet Tracer.
+* **Systems & Virtualization:** Linux (Debian, Ubuntu Server), Windows Server basics, Bash, Docker, VirtualBox.
+* **Development & Data:** Python, TypeScript, Node.js, Next.js, SQL (PostgreSQL), REST APIs, Git.
+* **GRC & Frameworks:** Law 25.326 (Argentina), ISO/IEC 27001 foundations, ISC2 Code of Ethics & Security Concepts.
 
 ---
 
-# ⭐ Featured Projects
+### 🎓 Education & Certifications
 
-## 🔐 Wazuh SIEM Lab
-
-Complete SIEM implementation monitoring Linux and Windows endpoints.
-
-**Highlights**
-
-- Wazuh Server deployment
-- Linux & Windows agents
-- Authentication monitoring
-- Privilege escalation events
-- Security event analysis
-- File Integrity Monitoring (FIM)
+* **B.S. in Information Systems Engineering** *(In Progress - 3rd Year)* – Universidad Tecnológica Nacional (UTN Rosario).
+* **ISC2 Certified in Cybersecurity (CC)** – Verified & Active.
+* **Cisco CCNA 1:** Introduction to Networks – Completed.
+* **Cisco CCNA 2:** Switching, Routing, and Wireless Essentials – Completed.
+* **Red Hat RH124:** Red Hat System Administration I – Completed.
+* **IBM:** Cybersecurity Fundamentals & Security Operations Center in Practice – Completed.
 
 ---
 
-## 🛡 Blue Team Security Cases
+### 📫 Contact & Links
 
-Collection of security investigations based on simulated incidents.
-
-**Topics**
-
-- SSH brute force attacks
-- Privilege escalation
-- Log correlation
-- Impact assessment
-- Incident response
-
----
-
-## 🤖 TimeLend
-
-AI-powered decentralized productivity platform developed during Aleph Hackathon.
-
-**Stack**
-
-- React
-- Next.js
-- Express
-- PostgreSQL
-- Prisma
-- Solidity
-- Docker
-
----
-
-# 📫 Contact
-
-- 💼 LinkedIn: https://www.linkedin.com/in/santiagodandrea-it/
-- 📧 Email: santiagodandrea04@gmail.com
+* 💼 **LinkedIn:** [linkedin.com/in/santiagodandrea-it](https://www.linkedin.com/in/santiagodandrea-it/)
+* 📧 **Email:** [santiagodandrea04@gmail.com](mailto:santiagodandrea04@gmail.com)
+* 📍 **Location:** Rosario, Santa Fe, Argentina
 
 ---
 
