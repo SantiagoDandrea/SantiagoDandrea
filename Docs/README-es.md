@@ -44,7 +44,6 @@ Laboratorio de administración del sistema operativo Linux enfocado en reducció
 
 #### 🚀 [TimeLend – Arquitectura Web Full Stack](https://github.com/SantiagoDandrea)
 Plataforma descentralizada de productividad desarrollada durante el Aleph Hackathon.
-* **Relevancia para Seguridad:** Evidencia de dominio de arquitecturas web modernas (Next.js 15, Express 5, PostgreSQL, Docker y APIs).
 
 ---
 
