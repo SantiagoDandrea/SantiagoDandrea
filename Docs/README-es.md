@@ -37,14 +37,14 @@ Mapeo técnico-legal y gobernanza de seguridad para entidades con datos sensible
 * **Marco Normativo:** Requisitos y principios de la Ley Nacional 25.326 (Habeas Data Argentina) y alineación con controles ISO/IEC 27001.
 * **Clasificación de Datos:** Matriz de clasificación en 4 niveles (Público, Interno, Confidencial, Restringido) con controles técnicos asociados (DLP, cifrado at-rest/in-transit, RBAC).
 
-#### 🐧 [Linux Fundamentals & Hardening](https://github.com/SantiagoDandrea)
-Laboratorio de administración del sistema operativo enfocado en reducción de superficie de ataque.
+#### 🐧 Linux Fundamentals & Hardening
+Laboratorio de administración del sistema operativo Linux enfocado en reducción de superficie de ataque.
 * **Administración:** Gestión de procesos (`systemd`), permisos estrictos, usuarios/grupos y segmentación de red con UFW.
 * **Auditoría:** Análisis de bitácoras de autenticación (`auth.log`) y configuración de servicios críticos como SSH y Apache.
 
 #### 🚀 [TimeLend – Arquitectura Web Full Stack](https://github.com/SantiagoDandrea)
 Plataforma descentralizada de productividad desarrollada durante el Aleph Hackathon.
-* **Relevancia para Seguridad:** Evidencia de dominio de arquitecturas web modernas (Next.js 15, Express 5, PostgreSQL, Docker y APIs). Permite entender la estructura de backend y frontend que un analista debe defender y auditar frente a inyecciones o vulnerabilidades lógicas.
+* **Relevancia para Seguridad:** Evidencia de dominio de arquitecturas web modernas (Next.js 15, Express 5, PostgreSQL, Docker y APIs).
 
 ---
 
@@ -53,7 +53,7 @@ Plataforma descentralizada de productividad desarrollada durante el Aleph Hackat
 * **Seguridad Defensiva:** Wazuh SIEM, File Integrity Monitoring (FIM), Fail2ban, Análisis de Logs (auth.log, syslog, Apache), Triage de Incidentes, OWASP Top 10, Burp Suite.
 * **Redes:** TCP/IP, Switching & Routing, VLANs, Inter-VLAN routing, STP, EtherChannel, ACLs, DHCP Snooping, Dynamic ARP Inspection (DAI), Cisco Packet Tracer.
 * **Sistemas & Virtualización:** Linux (Debian, Ubuntu Server), Windows Server, Bash, Docker, VirtualBox.
-* **Desarrollo & Datos:** Python, TypeScript, Node.js, Next.js, SQL (PostgreSQL), REST APIs, Git.
+* **Desarrollo & Datos:** Python, TypeScript, Node.js, Next.js, SQL, REST APIs, Git.
 * **GRC & Marcos:** Ley 25.326 (Argentina), fundamentos ISO/IEC 27001, Principios ISC2.
 
 ---
@@ -64,6 +64,7 @@ Plataforma descentralizada de productividad desarrollada durante el Aleph Hackat
 * **ISC2 Certified in Cybersecurity (CC)** – Aprobado y Certificado.
 * **Cisco CCNA 1:** Introduction to Networks – Completado.
 * **Cisco CCNA 2:** Switching, Routing, and Wireless Essentials – Completado.
+* **Cisco**: Cybersecurity Defense Analyst Career Path – Completado.
 * **Red Hat RH124:** Red Hat System Administration I – Completado.
 * **IBM:** Cybersecurity Fundamentals & Security Operations Center in Practice – Completado.
 
