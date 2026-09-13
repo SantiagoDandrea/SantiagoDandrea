@@ -52,7 +52,7 @@ Decentralized productivity web application built during the Aleph Hackathon.
 * **Defensive Security:** Wazuh SIEM, File Integrity Monitoring (FIM), Fail2ban, Log Analysis (`auth.log`, `syslog`, web logs), Incident Triage, OWASP Top 10, Burp Suite.
 * **Networking:** TCP/IP, Switching & Routing, VLANs, Inter-VLAN routing, STP, EtherChannel, ACLs, DHCP Snooping, Dynamic ARP Inspection (DAI), Cisco Packet Tracer.
 * **Systems & Virtualization:** Linux (Debian, Ubuntu Server), Windows Server basics, Bash, Docker, VirtualBox.
-* **Development & Data:** Python, TypeScript, Node.js, Next.js, SQL (PostgreSQL), REST APIs, Git.
+* **Development & Data:** Python, TypeScript, Node.js, Next.js, SQL, REST APIs, Git.
 * **GRC & Frameworks:** Law 25.326 (Argentina), ISO/IEC 27001 foundations, ISC2 Code of Ethics & Security Concepts.
 
 ---
@@ -63,6 +63,7 @@ Decentralized productivity web application built during the Aleph Hackathon.
 * **ISC2 Certified in Cybersecurity (CC)** – Verified & Active.
 * **Cisco CCNA 1:** Introduction to Networks – Completed.
 * **Cisco CCNA 2:** Switching, Routing, and Wireless Essentials – Completed.
+* **Cisco**: Cybersecurity Defense Analyst Career Path – Completed.
 * **Red Hat RH124:** Red Hat System Administration I – Completed.
 * **IBM:** Cybersecurity Fundamentals & Security Operations Center in Practice – Completed.
 
